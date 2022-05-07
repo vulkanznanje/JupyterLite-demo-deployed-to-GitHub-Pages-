@@ -81,6 +81,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.176149dcbfb677ea36fb.js",
+        "name": "ipyevents"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.6375e54406c677384240.js",
         "name": "jupyter-leaflet"
       },
