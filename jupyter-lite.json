@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.7",
+    "appVersion": "0.1.0-beta.8",
     "baseUrl": "./",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
@@ -113,7 +113,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.e36921af02dc11718a41.js",
+        "load": "static/remoteEntry.d5a1f5ba1f93b6166f5d.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -136,8 +136,7 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
-    "preferredPath": "/"
+    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
 }
